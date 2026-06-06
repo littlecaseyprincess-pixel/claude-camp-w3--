@@ -1,0 +1,13 @@
+name,email,joined_date,country,bet_status
+Alice,alice@example.com,2026-05-01,Singapore,active
+Bob,bob@example.com,2026-05-02,Australia,completed
+Cathy,cathy@example.com,2026-05-03,China,active
+David,david@example.com,2026-05-04,Malaysia,completed
+Ella,ella@example.com,2026-05-05,United States,active
+Frank,frank@example.com,2026-05-06,Singapore,completed
+Grace,grace@example.com,2026-05-07,Australia,completed
+Helen,helen@example.com,2026-05-08,China,active
+Ivan,ivan@example.com,2026-05-09,Malaysia,active
+Julia,julia@example.com,2026-05-10,Singapore,completed
+Kevin,kevin@example.com,2026-05-11,United States,completed
+Lily,lily@example.com,2026-05-12,China,active
